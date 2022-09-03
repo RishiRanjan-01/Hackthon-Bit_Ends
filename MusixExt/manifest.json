@@ -1,0 +1,13 @@
+{
+    "name":"Epic Mode",
+    "version":"1.0",
+    "description":"Epic Mode -Make browsing Epic",
+    "manifest_version":3,
+    "action":{
+        "default_popup":"popup.html"
+    },
+    "background":{
+        "service_worker":"background.html"
+    }
+
+}
